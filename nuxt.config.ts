@@ -41,7 +41,9 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
-      crawlLinks: true
+      crawlLinks: true,
+      routes: ['/', '/about', '/projects', '/contact', '/something'],
+      ignore: ['/200.html', '/404.html', '/_payload.json', '/about/_payload.json', '/projects/_payload.json', '/contact/_payload.json', '/something/_payload.json']
     }
   }
 })
