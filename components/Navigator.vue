@@ -1,3 +1,12 @@
+<script setup lang="ts">
+    defineProps({
+        path: {
+            type: String,
+            default: '/'
+        }
+    })
+</script>
+
 <template>
     <div class="flex flex-row flex-wrap items-center justify-center gap-5 select-none font-['VT323'] text-[21px]">
         <NuxtLink to="/">
@@ -21,12 +30,3 @@
         </NuxtLink>
     </div>
 </template>
-
-<script setup>
-    defineProps({
-        path: {
-            type: String,
-            default: '/'
-        }
-    })
-</script>
