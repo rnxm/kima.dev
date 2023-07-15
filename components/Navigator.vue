@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-row flex-wrap items-center justify-center gap-5 select-none">
+    <div class="flex flex-row flex-wrap items-center justify-center gap-5 select-none font-['VT323'] text-[21px]">
         <NuxtLink to="/">
             <h1 class="hover:underline" :class="path == '/' ? 'text-violet-300' : 'text-white'">home</h1>
         </NuxtLink>
@@ -28,5 +28,5 @@
             type: String,
             default: '/'
         }
-    });
+    })
 </script>

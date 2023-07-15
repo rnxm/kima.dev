@@ -4,31 +4,19 @@
         description: 'kima\'s website thingie',
         ogTitle: 'kima.dev | contact',
         ogDescription: 'kima\'s website thingie',
-        ogImage: '/favicon.ico',
+        ogImage: '/favicon.png',
         ogUrl: 'https://kima.dev/contact',
         twitterTitle: 'kima.dev | contact',
         twitterDescription: 'kima\'s website thingie',
-        twitterImage: '/favicon.ico',
+        twitterImage: '/favicon.png',
         twitterCard: 'summary'
-    });
-    useHead({
-        htmlAttrs: {
-            lang: 'en'
-        },
-        link: [
-            {
-                rel: 'icon',
-                type: 'image/png',
-                href: '/favicon.png'
-            }
-        ]
-    });
+    })
 
-    const route = useRoute();
+    const route = useRoute()
 </script>
 
 <template>
-    <div class="bg-black h-screen w-screen flex flex-col items-center justify-between p-5">
+    <div class="bg-black h-screen w-screen flex flex-col items-center justify-between p-5 font-['Roboto Slab']">
         <Navigator :path="route.path"/>
         <div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
             <div class="h-max w-max flex flex-row flex-wrap text-white gap-10">
