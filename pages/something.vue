@@ -17,7 +17,7 @@
 
 <template>
     <div class="bg-black h-screen w-screen flex flex-col items-center justify-between p-5 font-['Roboto Slab']">
-        <Navigator :path="route.path"/>
+        <NavigationBar :path="route.path"/>
         <div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
             <h1 class="text-white text-center">
                 <span class="text-red-500">a</span>ctu<span class="text-red-500">all</span>y <span class="text-red-500">n</span>oth<span class="text-red-500">in</span>g spec<span class="text-red-500">ial</span>, but...<br>
