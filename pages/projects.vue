@@ -37,7 +37,7 @@
                     <h1 class="text-2xl text-white font-['VT323']">projects in which i have part in</h1>
                     <div class="flex flex-row flex-wrap gap-10 h-fit w-fit max-w-3xl">
                         <ProjectCard title="Alley" description="a modern discord bot with slash commands, easy-usage and full of useful and good features" icon_url="/images/logo/alley.png" link="https://alley.hu"/>
-                        <ProjectCard title="LINSE DSGN" description="a designer and partly a developer team, we are creating custom, modern and clean designs or entire websites" link="https://linse.hu"/>
+                        <ProjectCard title="LINSE DSGN" description="a designer and partly a developer team, we are creating custom, modern and clean designs or entire websites" icon_url="/images/logo/linse.png" link="https://linse.hu"/>
                     </div>
                 </div>
                 <div class="flex flex-col gap-10 h-fit w-fit">
@@ -46,6 +46,7 @@
                         <ProjectCard title="TokyoHost" description="a game and virtual server hosting provider based in hungary with most of the popular game servers supported" icon_url="/images/logo/tokyohost.png" link="https://tokyohost.eu"/>
                         <ProjectCard title="Plave" description="another cool hungarian social media platform which is mainly based on voice and sound" icon_url="/images/logo/plave.png" link="https://plave.hu"/>
                         <ProjectCard title="FreshFM" description="a hungarian online radio station that plays new and better known older songs too" icon_url="/images/logo/freshfm.png" link="https://freshfm.hu"/>
+                        <ProjectCard title="MARS" description="another designer and developer team, they're also cheap and make fancy designs" icon_url="/images/logo/mars.png" link="https://marsdesign.hu"/>
                     </div>
                 </div>
             </div>
