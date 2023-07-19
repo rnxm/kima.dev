@@ -22,7 +22,7 @@
 
 <template>
 	<div class="bg-black h-screen w-screen flex flex-col items-center justify-between p-5 font-['Roboto_Slab']">
-		<Navigator path="?"/>
+		<NavigationBar path="?"/>
 		<div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
 			<h1 class="text-white text-center">
                 {{ error?.statusCode }} - {{ error?.statusMessage.toLowerCase() }}<br>
