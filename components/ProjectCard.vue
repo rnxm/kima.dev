@@ -20,7 +20,7 @@
 </script>
 
 <template>
-    <NuxtLink :to="link" target="_blank" class="transition ease-in-out hover:scale-[1.03] duration-200">
+    <a :href="link" target="_blank" class="transition ease-in-out hover:scale-[1.03] duration-200">
         <div class="flex flex-row items-start justify-center gap-5 select-none">
             <div class="h-fit w-fit">
                 <img :src="icon_url" alt="logo" class="rounded-full w-12 h-12">
@@ -30,5 +30,5 @@
                 <p class="text-[15px] text-white max-w-[250px]">{{ description }}</p>
             </div>
         </div>
-    </NuxtLink>
+    </a>
 </template>

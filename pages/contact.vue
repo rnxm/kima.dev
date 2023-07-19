@@ -20,21 +20,21 @@
         <NavigationBar :path="route.path"/>
         <div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
             <div class="h-max w-max flex flex-row flex-wrap text-white gap-10">
-                <NuxtLink to="https://t.me/kimaaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+                <a href="https://t.me/kimaaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                     <Icon name="fa6-brands:telegram" size="32px" />
-                </NuxtLink>
-                <NuxtLink to="https://discord.com/channels/@me/654721418273226793" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+                </a>
+                <a href="https://discord.com/channels/@me/654721418273226793" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                     <Icon name="fa6-brands:discord" size="32px" />
-                </NuxtLink>
-                <NuxtLink to="https://instagr.am/__k1m4__" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+                </a>
+                <a href="https://instagr.am/__k1m4__" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                     <Icon name="fa6-brands:instagram" size="32px" />
-                </NuxtLink>
-                <NuxtLink to="https://github.com/kimaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+                </a>
+                <a href="https://github.com/kimaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                     <Icon name="fa6-brands:github" size="32px" />
-                </NuxtLink>
-                <NuxtLink to="https://xyl.lol/kima" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+                </a>
+                <a href="https://xyl.lol/kima" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                     <Icon name="fa6-solid:ellipsis" size="32px" />
-                </NuxtLink>
+                </a>
             </div>
         </div>
     </div>
