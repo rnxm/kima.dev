@@ -11,15 +11,10 @@
 		twitterImage: '/favicon.png',
 		twitterCard: 'summary'
 	});
-
-	const route = useRoute()
 </script>
 
 <template>
-	<div class="bg-black h-screen w-screen flex flex-col items-center justify-between p-5 font-['Roboto_Slab']">
-		<NavigationBar :path="route.path"/>
-		<div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
-			<h1 class="text-white">kima.dev</h1>
-		</div>
+	<div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
+		<h1 class="text-white">kima.dev</h1>
 	</div>
 </template>
