@@ -1,5 +1,4 @@
 <script setup lang="ts">
-
     useSeoMeta({
         title: 'kima.dev | projects',
         description: 'kima\'s website thingie',
@@ -47,6 +46,12 @@
                         <ProjectCard title="Plave" description="another cool hungarian social media platform which is mainly based on voice and sound" icon_url="/images/logo/plave.png" link="https://plave.hu"/>
                         <ProjectCard title="FreshFM" description="a hungarian online radio station that plays new and better known older songs too" icon_url="/images/logo/freshfm.png" link="https://freshfm.hu"/>
                         <ProjectCard title="MARS" description="another designer and developer team, they're also cheap and make fancy designs" icon_url="/images/logo/mars.png" link="https://marsdesign.hu"/>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-10 h-fit w-fit">
+                    <h1 class="text-2xl text-white font-['VT323']">projects i made for someone</h1>
+                    <div class="flex flex-row flex-wrap gap-10 h-fit w-fit max-w-3xl">
+                        <ProjectCard title="SeaNodes (web)" description="a website for the SeaNodes hosting" icon_url="/images/logo/ext/seanodes.png" link="https://seanodes.hu" :disable_round="true"/>
                     </div>
                 </div>
             </div>
