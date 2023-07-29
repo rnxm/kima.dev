@@ -14,7 +14,7 @@
 </script>
 
 <template>
-    <div class="h-full w-screen flex flex-col items-center justify-center select-none gap-5 my-20 p-10">
+    <div class="h-full w-full flex flex-col items-center justify-center select-none gap-5 my-20 p-10">
         <h1 class="text-white">here is some kind of a list of my and others projects..</h1>
         <br>
         <div class="flex flex-col gap-20 h-max w-fit">

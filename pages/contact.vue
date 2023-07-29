@@ -14,7 +14,7 @@
 </script>
 
 <template>
-    <div class="h-screen w-screen flex flex-col items-center justify-center select-none gap-5">
+    <div class="h-screen w-full flex flex-col items-center justify-center select-none gap-5">
         <div class="h-max w-max flex flex-row flex-wrap text-white gap-10">
             <a href="https://t.me/kimaaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:telegram" size="32px" />
