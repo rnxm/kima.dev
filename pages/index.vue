@@ -14,7 +14,7 @@
 </script>
 
 <template>
-	<div class="h-screen w-full flex flex-col items-center justify-center select-none gap-5">
+	<div class="h-full w-full flex flex-col items-center justify-center select-none gap-5">
 		<h1 class="text-white">kima.dev</h1>
 	</div>
 </template>

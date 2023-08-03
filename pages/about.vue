@@ -14,7 +14,7 @@
 </script>
 
 <template>
-    <div class="h-screen w-fit flex flex-col items-start justify-center select-none gap-5 text-white">
+    <div class="h-full w-fit flex flex-col items-start justify-center select-none gap-5 text-white">
         <p class="text-justify indent-[-1em] ml-4">
             • hi! i'm kima, a full-stack web developer :3
         </p>

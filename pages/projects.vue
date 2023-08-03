@@ -42,6 +42,7 @@
                     <ProjectCard title="Plave" description="another cool hungarian social media platform which is mainly based on voice and sound" icon_url="/images/logo/plave.png" link="https://plave.hu"/>
                     <ProjectCard title="FreshFM" description="a hungarian online radio station that plays new and better known older songs too" icon_url="/images/logo/freshfm.png" link="https://freshfm.hu"/>
                     <ProjectCard title="MARS" description="another designer and developer team, they're also cheap and make fancy designs" icon_url="/images/logo/mars.png" link="https://marsdesign.hu"/>
+                    <ProjectCard title="dedicated.zone" description="a stable and cheap non-tls terminating reverse proxy service with ddos protection" icon_url="/images/logo/dedicatedzone.png" link="https://dedicated.zone"/>
                 </div>
             </div>
             <div class="flex flex-col gap-10 h-fit w-fit">
