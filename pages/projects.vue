@@ -33,6 +33,7 @@
                 <div class="flex flex-row flex-wrap gap-10 h-fit w-fit max-w-3xl">
                     <ProjectCard title="Alley" description="a modern discord bot with slash commands, easy-usage and full of useful and good features" icon_url="/images/logo/alley.png" link="https://alley.hu"/>
                     <ProjectCard title="LINSE DSGN" description="a designer and partly a developer team, we are creating custom, modern and clean designs or entire websites" icon_url="/images/logo/linse.png" link="https://linse.hu"/>
+                    <ProjectCard title="ForStudy" description="a website that collects most of school related apps and services for you to use" icon_url="/images/logo/forstudy.png" link="https://forstudy.hu"/>
                 </div>
             </div>
             <div class="flex flex-col gap-10 h-fit w-fit">
