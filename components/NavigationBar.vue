@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <div class="flex flex-row flex-wrap items-center justify-center gap-5 select-none font-['VT323'] text-[21px] fixed rounded-full backdrop-blur-sm border-2 border-[#00000044] z-50 py-1 px-3">
+    <div class="flex flex-row flex-wrap items-center justify-center gap-5 select-none font-['VT323'] text-[21px] fixed top-0 left-0 right-0 backdrop-blur-[6px] bg-[#00000044] border-b border-[#00000044] z-50 py-4 px-3">
         <NuxtLink to="/">
             <h1 class="hover:underline" :class="path == '/' ? 'text-violet-300' : 'text-white'">home</h1>
         </NuxtLink>
