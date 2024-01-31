@@ -26,7 +26,7 @@
         </p>
         <p class="text-justify indent-[-1em] ml-4">
             • i'm from hungary<br>
-            currently i'm 15 years old :rolling_eyes:<br>
+            currently i'm 16 years old :rolling_eyes:<br>
             i live in szigetszentmiklós
         </p>
         <p class="text-justify indent-[-1em] ml-4">
