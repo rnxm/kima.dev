@@ -19,14 +19,14 @@
             • hi! i'm kima, a full-stack web developer :3
         </p>
         <p class="text-justify indent-[-1em] ml-4">
-            • i use things like python, html, css, javascript, some web frameworks like nuxt, etc.<br>
-            ohh actually i love flutter mobile framework too..<br>
+            • i use things like python, html, css, typescript, some web frameworks like react, etc.<br>
+            ohh actually i love the flutter mobile framework too..<br>
             visual studio code forever :hot_face:<br>
             fuck php and other shit langs like that
         </p>
         <p class="text-justify indent-[-1em] ml-4">
             • i'm from hungary<br>
-            currently i'm 16 years old :rolling_eyes:<br>
+            currently i'm 17 years old :sunglasses:<br>
             i live in szigetszentmiklós
         </p>
         <p class="text-justify indent-[-1em] ml-4">

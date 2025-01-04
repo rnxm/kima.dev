@@ -22,13 +22,13 @@
             <a href="https://discord.com/channels/@me/654721418273226793" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:discord" size="32px" />
             </a>
-            <a href="https://instagr.am/__k1m4__" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+            <a href="https://instagr.am/k1m4h_" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:instagram" size="32px" />
             </a>
             <a href="https://github.com/kimaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:github" size="32px" />
             </a>
-            <a href="https://xyl.lol/kima" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+            <a href="https://yoursit.ee/kima" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-solid:ellipsis" size="32px" />
             </a>
         </div>
