@@ -19,7 +19,7 @@
             <a href="https://t.me/kimaaah" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:telegram" size="32px" />
             </a>
-            <a href="https://discord.com/channels/@me/654721418273226793" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
+            <a href="https://discord.com/users/654721418273226793" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
                 <Icon name="fa6-brands:discord" size="32px" />
             </a>
             <a href="https://instagr.am/k1m4h_" target="_blank" class="transition ease-in-out hover:opacity-75 duration-200">
